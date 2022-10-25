@@ -4,6 +4,6 @@ package com.mycompany.hidalgocarlos;
  *
  * @author HidalgoCarlos
  */
-public class RuntimeException {
+public class RuntimeException extends Falla {
     
 }
